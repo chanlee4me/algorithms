@@ -12,6 +12,7 @@ public class Tree543 {
     }
     static int res = 0;
     private static int func(TreeNode root){
+        res = 0;
         maxHeight(root);
         return res;
     }
