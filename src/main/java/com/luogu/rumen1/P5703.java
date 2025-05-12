@@ -1,4 +1,4 @@
-package com.luogu;
+package com.luogu.rumen1;
 import java.util.Scanner;
 public class P5703 {
     public static void main(String[] args) {

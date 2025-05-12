@@ -1,4 +1,4 @@
-package com.luogu;
+package com.luogu.rumen1;
 
 class B2025 {
     public static void main(String[] args) {

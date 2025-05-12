@@ -1,4 +1,4 @@
-package com.luogu;
+package com.luogu.rumen1;
 import java.util.Scanner;
 
 class B2005{
