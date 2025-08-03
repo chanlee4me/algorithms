@@ -65,3 +65,4 @@ public class P3310 {
         System.out.println(generalQueue.size());
     }
 }
+
